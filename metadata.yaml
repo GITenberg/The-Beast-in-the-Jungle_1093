@@ -1,0 +1,34 @@
+_repo: The-Beast-in-the-Jungle_1093
+_version: 0.0.1
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+description: In this psychological drama, Henry James explores the mind of John Marcher,
+  a neurotic egoist obsessed with the lurking feeling that something amazing is going
+  to happen to him. James borrowed this concept from the notebooks of his good friend,
+  author Constance Fenimore Woolson, who had fallen to her death from her window in
+  Venice a few years earlier. Many see The Beast in the Jungle as James' attempt to
+  work through his feelings over his relationship with Constance, but the book is
+  engaging regardless of autobiographical interpretation.
+gutenberg_issued: '1997-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1093'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fate and fatalism -- Fiction'
+- !lcsh 'Conduct of life -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Egoism -- Fiction'
+- GITenberg
+title: The Beast in the Jungle
+url: http://www.gutenberg.org/ebooks/1093
