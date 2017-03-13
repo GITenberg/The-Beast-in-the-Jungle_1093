@@ -1,5 +1,8 @@
 _repo: The-Beast-in-the-Jungle_1093
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: James, Henry
@@ -15,6 +18,8 @@ description: In this psychological drama, Henry James explores the mind of John 
   Venice a few years earlier. Many see The Beast in the Jungle as James' attempt to
   work through his feelings over his relationship with Constance, but the book is
   engaging regardless of autobiographical interpretation.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1093#The-Beast-in-the-Jungle
 gutenberg_issued: '1997-11-01'
 gutenberg_type: Text
 identifiers:
